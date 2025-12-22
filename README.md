@@ -23,9 +23,6 @@
   </a>
 </p>
 
-## github-profile-trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamaserif&theme=darkhub&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## profile-summary-card
 <p align="left"> 
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
